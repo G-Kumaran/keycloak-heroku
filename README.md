@@ -7,5 +7,5 @@ Heroku variable for `PORT` and `DATABASE_URL` properly.
 FORKED to allow running on a HOBBY DYNO for testing
 The deployment will be made with a single Hobby dyno with a free Postgres database attached.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started/tree/main/tree/master)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/G-Kumaran/keycloak-heroku/tree/master)
 
